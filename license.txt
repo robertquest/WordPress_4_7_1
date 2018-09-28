@@ -1,4 +1,4 @@
-WordPress - Web publishing software 4_7_1_105
+WordPress - Web publishing software 4_7_1_105 gita do pleska
 
 Copyright 2011-2017 by the contributors
 
