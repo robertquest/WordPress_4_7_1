@@ -1,4 +1,4 @@
-WordPress - Web publishing software 4_7_1_106
+WordPress - Web publishing software 4_7_1_106 z github do plesk
 
 Copyright 2011-2017 by the contributors
 
